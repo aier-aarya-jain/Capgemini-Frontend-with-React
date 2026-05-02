@@ -1,15 +1,31 @@
 {
   "products": [
     {
-      "name": "Iphone",
-      "price": 100000,
-      "id": 1
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "rZ9PPY20m64"
     },
     {
-      "name": "Iphone",
-      "price": 100000,
-      "id": 2
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "bW62k2y"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "p-aCeBq"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "r6BGdy_"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "wIkX90H"
     }
   ],
-  "users": []
+  "users": [],
+  "$schema": "./node_modules/json-server/schema.json"
 }

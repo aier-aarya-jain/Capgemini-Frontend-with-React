@@ -1,10 +1,10 @@
 import React from 'react'
-import ChildContext from './ChildContext'
+import ContextChild from './ContextChild'
 
 const ContextParent = () => {
   return (
     <div>
-      <ChildContext />
+        <ContextChild/>
     </div>
   )
 }
