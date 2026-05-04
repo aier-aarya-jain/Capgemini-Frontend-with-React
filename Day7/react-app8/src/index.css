@@ -1,0 +1,68 @@
+/* Center the whole component */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Main container */
+div {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Heading */
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Counter number */
+p {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 20px 0;
+  color: #007bff;
+}
+
+/* Buttons */
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+}
+
+/* Increment button */
+button:first-of-type {
+  background-color: #28a745;
+}
+
+/* Decrement button */
+button:nth-of-type(2) {
+  background-color: #dc3545;
+}
+
+/* Fetch button */
+button:nth-of-type(3) {
+  background-color: #610a83;
+}
+
+button:nth-of-type(4) {
+  background-color: #2484c4;
+}
+
+/* Hover effect */
+button:hover {
+  opacity: 0.85;
+}

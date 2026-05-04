@@ -23,7 +23,7 @@ export let postProduct=async()=>{
         {name:"JAY",friend:"Veeru"})
         console.log(res);
         console.log(res.data);       }
-export let pathProduct=async(id, data)=>{
+export let patchProduct=async(id, data)=>{
     let res = await axiosInstance.patch(`/products/${id}`,data)
     console.log(res.data);   
 }

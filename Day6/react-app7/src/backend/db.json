@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      
+      "name": "Aarya Jain",
+      "email": "aarya@example.com",
+      "password": "aarya123"
+    },
+    {
+      
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "password": "rahul123"
+      
+    },
+    {
+      
+      "name": "Priya Gupta",
+      "email": "priya@example.com"  ,
+      "password": "priya123"
+
+    }
+  ]
+}
